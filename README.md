@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📫 My wechat: Aaron_819040664
 - 😄 You can call me Aaron/源泽
+- 📫 My wechat: Aaron_819040664
 - 🔭 Here are some interesting stuffs
   - My study notes: [little-storage-pubic](https://github.com/AaronPhantomhive/little-storage-pubic)
   - My Leetcode study: [LeetCode](https://github.com/AaronPhantomhive/LeetCode)
