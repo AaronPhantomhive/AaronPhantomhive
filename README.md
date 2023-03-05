@@ -4,7 +4,7 @@
 - 📫 My wechat: Aaron_819040664
 - 🔭 Here are some interesting stuffs
   - My study notes: [little-storage-pubic](https://github.com/AaronPhantomhive/little-storage-pubic)
-    - Now including: 
+    - Now including: Java, JavaSpring, C++, C#, Redis, OS, MySQL, Linux, Angular, React, Karate
   - My Leetcode study: [LeetCode](https://github.com/AaronPhantomhive/LeetCode)
   - Google Senior's Algorithm Study Guide: [谷歌学长的题解指南.pdf](https://github.com/AaronPhantomhive/LeetCode/blob/master/%E8%B0%B7%E6%AD%8C%E5%AD%A6%E9%95%BF%E7%9A%84%E9%A2%98%E8%A7%A3%E6%8C%87%E5%8D%97.pdf)
 
